@@ -94,7 +94,7 @@ h3 {
 
 /* Sezione today */
 
-.mobile {
+.app {
     display: inline-block;
     width: 62px;
     height: 24px;
@@ -103,6 +103,56 @@ h3 {
 }
 
 #goals {
+    color: #ffffff;
+    font-size:9px;
+    font-weight: bold;
+    padding: 9px 11px 9px 11px;
+}
+
+.categories2 {
+    padding-top: 19px;
+    font-size: 13px;
+}
+
+.circle2 {
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+    border: 1px solid #ff4141;
+    display: inline-block;
+}
+
+.x {
+    color: #ff4141;
+    font-size: 10px;
+    padding-left: 4px;
+
+}
+
+.interview {
+    display: inline-block;
+    width: 62px;
+    height: 24px;
+    background-color: #2cc6ab;
+    border-radius: 30%;
+}
+
+#recruiting {
+    color: #ffffff;
+    font-size:9px;
+    font-weight: bold;
+    padding: 9px 11px 9px 11px;
+}
+
+#summit {
+    display: inline-block;
+    width: 62px;
+    height: 24px;
+    background-color: #ff9b00;
+    border-radius: 30%;
+}
+
+#mobile {
     color: #ffffff;
     font-size:9px;
     font-weight: bold;
