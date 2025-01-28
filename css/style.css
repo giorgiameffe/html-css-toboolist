@@ -23,7 +23,7 @@ h1 {
 }
 /* Logo pagina */
 
-/* Sezione task */
+/* Buttons di navigazione */
 main {
     padding-left: 220px;
 }
@@ -49,9 +49,9 @@ main {
     padding: 9px 9px 9px 9px;
 }
 
-/* Sezione task */
+/* Buttons di navigazione*/
 
-/* New task */
+/* Sezione task */
 h3 {
     padding-top: 44px;
 }
@@ -83,7 +83,26 @@ h3 {
     border-radius: 30%;
 }
 
-.info .editorial {
+.editorial {
+    color: #ffffff;
+    font-size:9px;
+    font-weight: bold;
+    padding: 9px 11px 9px 11px;
+}
+
+/* Sezione task */
+
+/* Sezione today */
+
+.mobile {
+    display: inline-block;
+    width: 62px;
+    height: 24px;
+    background-color: #ab5de6;
+    border-radius: 30%;
+}
+
+#goals {
     color: #ffffff;
     font-size:9px;
     font-weight: bold;
